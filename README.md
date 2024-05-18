@@ -1,4 +1,6 @@
-# Case Study - Pizza Runner
+# Case Study - Pizza Runner 
+
+🟡In Progress
 
 Link to the case study resources: [Case Study #2 - Pizza Runner](https://8weeksqlchallenge.com/case-study-2/)
 
