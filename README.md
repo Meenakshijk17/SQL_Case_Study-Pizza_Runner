@@ -19,7 +19,6 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 - Ingredient Optimisation
 - Pricing and Ratings
 - Bonus DML Challenges (DML = Data Manipulation Language)
-- Each of the following case study questions can be answered using a single SQL statement.
 
 ## Questions Covered
 
